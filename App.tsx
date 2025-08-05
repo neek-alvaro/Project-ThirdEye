@@ -6,7 +6,7 @@ import {
   ViroTrackingStateConstants,
   ViroARSceneNavigator,
   ViroTrackingReason,
-} from "@viro-community/react-viro";
+} from "@reactvision/react-viro";
 
 const HelloWorldSceneAR = () => {
   const [text, setText] = useState("Initializing AR...");
